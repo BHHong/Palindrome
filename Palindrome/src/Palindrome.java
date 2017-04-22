@@ -1,5 +1,3 @@
-package com.myproject.controller;
-
 import java.util.Stack;
 
 public class Palindrome {
